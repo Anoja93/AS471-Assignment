@@ -21,6 +21,15 @@ aws ubuntu server(t2.micro), Docker, Laradock, Laravel Simple Project
             a) Docker is a tool designed to make it easier to create, deploy and run applications by using containers.
                Containers allow a developer to package up an application with all of the parts it needs, such as libraries
                and other dependencies and ship it all out as one package.
+               
+        (4) Use Laradock (Full PHP development environment for Docker)
+        
+        (5) Done
+        
+        (6) sudo docker-compose up -d gitlab
+            a) Continuous Integration (CI) is a development practice that requires developers to integrate code into a shared
+               repository several times a day.
+          
             
 
 
