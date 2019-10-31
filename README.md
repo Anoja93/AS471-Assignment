@@ -4,6 +4,8 @@ K.M.A.M.Kuruppu
 
 aws ubuntu server(t2.micro), Docker, Laradock, Laravel Simple Project
 
+Configuration steps are done in the wikipage
+
         Answers
         
         (1) Done with AWS EC2 On Linux AMI Server
